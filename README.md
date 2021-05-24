@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on projects where I can improve my skills and help others to grow up while creating amazing things!
 - 📫 You can reach me by my emails: alexander.sosa.asillanes@gmail.com or alexander.sosa.asillanes@outlook.com
 - 📫 Here is my LinkedIn profile: www.linkedin.com/in/alexander-sosa-asillanes
+- 📫 If you want to see my group projects, here is my other Github Repository: www.github.com/phoenix-phx
 
 <!---
 nova-nva/nova-nva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
