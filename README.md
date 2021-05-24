@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nova-nva! My name's Alexander
 - 👀 I’m interested in technology, coding and music!
-- 🌱 I’m a Systems Engeenering Student and a Computer Science Competitive Programmer
+- 🌱 I’m a Systems Engineering Student and a Computer Science Competitive Programmer
 - 💞️ I’m looking to collaborate on projects where I can improve my skills and help others to grow up while creating amazing things!
 - 📫 You can reach me by my emails: alexander.sosa.asillanes@outlook.com or alexander.sosa.asillanes@gmail.com
 - 📫 Here is my LinkedIn profile: www.linkedin.com/in/alexander-sosa-asillanes
